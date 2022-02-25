@@ -1,0 +1,22 @@
+.line{
+    width: 70px;
+    height: 10px;
+    background-color: black;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+}
+#games{
+    background-color: brown;
+}
+#games img{
+    height: 300px;
+    margin-top: 35px;
+}
+#games p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
